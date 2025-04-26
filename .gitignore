@@ -1,0 +1,21 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+node_modules/
+zzzz.js
+uploads
+.early.coverage
+.env
+/.env
+/.env.*
+.env
+.env
+
+serviceAccountKey.json
+
+app.js
+server.log
+config/database.js
